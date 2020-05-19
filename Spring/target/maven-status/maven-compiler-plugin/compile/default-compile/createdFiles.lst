@@ -1,0 +1,9 @@
+com\gayatri\config\WebInitializer.class
+com\gayatri\dao\CustomerDaoImpl.class
+com\gayatri\config\HibernateConfig.class
+com\gayatri\service\CustomerServiceImpl.class
+com\gayatri\model\Customer.class
+com\gayatri\config\WebConfig.class
+com\gayatri\service\CustomerService.class
+com\gayatri\controller\CustomerController.class
+com\gayatri\dao\CustomerDao.class
